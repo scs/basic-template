@@ -1,2 +1,6 @@
++ Release v1.2-p1
+Removed LGPL headers to release it without copy-left
+
+
 + Release v1.2
 Adapted to Oscar framework 2.0
